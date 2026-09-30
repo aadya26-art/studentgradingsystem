@@ -18,3 +18,5 @@ Clone the repository:
 '''bash
 https://github.com/aadya26-art/studentgradingsystem.git
 cd {studentgradingsystem}
+Bash
+python student_grading_system_v2.py
