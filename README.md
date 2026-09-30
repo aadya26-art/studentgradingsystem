@@ -23,5 +23,4 @@ cd {studentgradingsystem}
 
 Bash
 
-
-python student_grading_system_v2.py
+student_grading_system.py
