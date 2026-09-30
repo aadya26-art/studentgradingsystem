@@ -14,3 +14,7 @@ Technologies Used
 - Python
  Prerequisites
 - Python 3.14
+Clone the repository:
+'''bash
+https://github.com/aadya26-art/studentgradingsystem.git
+cd {studentgradingsystem}
